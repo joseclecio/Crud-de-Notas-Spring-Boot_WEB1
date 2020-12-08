@@ -5,6 +5,6 @@
 
 # Modos de Instalação
 ## Passo 1: 
-### Vá até a pasta *src*
+### Vá até a pasta *src* 
 
 
