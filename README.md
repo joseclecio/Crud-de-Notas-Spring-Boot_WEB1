@@ -57,7 +57,7 @@ spring.jpa.hibernate.ddl-auto = update
 ### > Clicado com o botão direito aparecerá as opções, você clica em *Run As* e em seguida *Spring Boot App*
 ![img4](https://firebasestorage.googleapis.com/v0/b/testeslab-c72db.appspot.com/o/imagensTeste%2F4.PNG?alt=media&token=bf53f955-ce13-47c9-9efd-4c9eb1593724)
 
-### > Após o projeto ser executado, digite no navegador o endereço: <a targer="_blank"> <http://localhost:8080/></a>
+### > Após o projeto ser executado, digite no navegador o endereço:  <http://localhost:8080/>
 ### > Irá aparecer a tela de login abaixo:
 ![img5](https://firebasestorage.googleapis.com/v0/b/testeslab-c72db.appspot.com/o/imagensTeste%2F5.PNG?alt=media&token=7d0e31f5-6489-4659-8ab6-af4595eb32fb)
 
