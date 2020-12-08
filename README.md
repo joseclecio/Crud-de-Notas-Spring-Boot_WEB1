@@ -6,10 +6,10 @@
 # Modos de Instalação
 ## Passo 1:
 ### > Vá até a pasta *📂src* -> *📂main* -> *📂resources* -> *📄application.properties*
-<br>
+
 ## Passo 2:
 ### > Vá até o arquivo *📄application.properties* e dê 2 clicks 
-<br>
+
 ## Passo 3:
 ### > Nesse arquivo você poderá configurar o banco, no meu caso configurei com o nome de *users_database*, más você poderá colocar qualquer nome. Más no MySQL terá que ser o mesmo nome. 
 ### > Defina a o usuário que você colocou no seu banco MySQL em *spring.datasource.username = root* e sua senha em *spring.datasource.password = root*, por padrão eu coloquei como *root*, más você poderá alterar.
@@ -32,6 +32,6 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDial
 # Hibernate ddl auto (create, create-drop, validate, update)
 spring.jpa.hibernate.ddl-auto = update
 ```
-<br>
+
 ## Passo 4:
 
