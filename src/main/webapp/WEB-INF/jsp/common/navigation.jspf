@@ -1,0 +1,14 @@
+<nav role="navigation" class="navbar navbar-inverse">
+ <div class="">
+  <a class="navbar-brand">Crud Spring</a>
+ </div>
+ <div class="navbar-collapse">
+     <ul class="nav navbar-nav">
+          <li><a href="/">Principal</a></li>
+          <li><a href="/list-todos">Notas</a></li>
+     </ul>
+     <ul class="nav navbar-nav navbar-right">
+         <li><a style="text-decoration: underline;" href="/logout">Sair</a></li>
+     </ul>
+ </div>
+</nav>
