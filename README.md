@@ -3,10 +3,9 @@
 <br>
 <br>
 
-# Modos de Instalação
-## Passo 1: 
-<br/>
-### Vá até a pasta *📂src* -> *📂main* -> *📂resources* -> *📄application.properties*
+<h1>Modos de Instalação</h1>
+<h2>Passo 1:</h2>
+<h3>Vá até a pasta *📂src* -> *📂main* -> *📂resources* -> *📄application.properties*</h3>
 ## Passo 2:
 
 
