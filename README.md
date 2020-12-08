@@ -32,7 +32,7 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDial
 # Hibernate ddl auto (create, create-drop, validate, update)
 spring.jpa.hibernate.ddl-auto = update
 ```
-<br/>
+<br/><br/>
 
 # Criando a base de dados no MySQL
 ## Passo 1: 
@@ -47,7 +47,7 @@ spring.jpa.hibernate.ddl-auto = update
 ## Passo 3: 
 ### > Após criado irá aparecer ao lado.
 ![img3](https://firebasestorage.googleapis.com/v0/b/testeslab-c72db.appspot.com/o/imagensTeste%2F3.PNG?alt=media&token=86be6495-df85-42df-a8d7-3ba158d76b6f)
-<br/>
+<br/><br/>
 
 # Executando o Projeto
 ## Passo 1: 
