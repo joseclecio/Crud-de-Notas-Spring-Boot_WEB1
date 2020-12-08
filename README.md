@@ -6,12 +6,12 @@
 # Modos de Instalação
 ## Passo 1:
 ### > Vá até a pasta *📂src* -> *📂main* -> *📂resources* -> *📄application.properties*
-
+<br>
 ## Passo 2:
 ### > Vá até o arquivo *📄application.properties* e dê 2 clicks 
-
+<br>
 ## Passo 3:
-### > 
+### > Nesse arquivo você poderá configurar o banco
 
 ```
 ## Spring view resolver set up
