@@ -62,7 +62,7 @@ spring.jpa.hibernate.ddl-auto = update
 ![img5](https://firebasestorage.googleapis.com/v0/b/testeslab-c72db.appspot.com/o/imagensTeste%2F5.PNG?alt=media&token=7d0e31f5-6489-4659-8ab6-af4595eb32fb)
 
 ## Passo 3: 
-### > No projeto form definidos 2 usuários:
+### > No projeto foram definidos 2 usuários:
 #### Username: *admin* <br/> Password: *admin*
 #### Username: *teste* <br/> Password: *teste*
 
