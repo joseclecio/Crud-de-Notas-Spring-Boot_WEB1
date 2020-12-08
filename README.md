@@ -1,5 +1,14 @@
 # Crud-de-Notas-Spring-Boot_WEB1
-## Um Crud de Notas Spring Boot utilizando as tecnologias Spring MVC + Spring Security + JSP + Hibernate + MySQL. Disciplina de WEB 1 do Curso de Bacharelado em Sistemas de Informação - Campus Lagarto
+## Um Crud de Notas Spring Boot utilizando as tecnologias:
+* Spring MVC
+* Spring Security 
+* JSP 
+* Hibernate 
+* MySQL
+* Java
+<br/> 
+
+* Disciplina de WEB 1 do Curso de Bacharelado em Sistemas de Informação - Campus Lagarto
 <br/>
 <br/>
 
