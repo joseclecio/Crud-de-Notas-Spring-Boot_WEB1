@@ -4,12 +4,12 @@
 <br/>
 
 ## Um Crud de Notas Spring Boot utilizando as tecnologias:
-* Spring MVC
-* Spring Security 
-* JSP 
-* Hibernate 
-* MySQL
-* Java
+* <a href="https://www.devmedia.com.br/java-spring-mvc-criando-aplicacoes-web-em-java/31521" target="_blank">Spring MVC</a> 
+* <a href="https://www.devmedia.com.br/spring-security-3-1-configuracao-e-utilizacao-em-um-exemplo-web/30112" target="_blank">Spring Security</a> 
+* <a href="https://www.devmedia.com.br/introducao-ao-java-server-pages-jsp/25602" target="_blank">JSP</a> 
+* <a href="https://www.devmedia.com.br/guia/hibernate/38312" target="_blank">Hibernate</a>   
+* <a href="https://www.devmedia.com.br/guia/mysql/34335" target="_blank">MySQL</a> 
+* <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank">Java</a>
 
 <br/>
 <br/>
