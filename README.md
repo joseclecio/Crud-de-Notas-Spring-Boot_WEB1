@@ -1,4 +1,4 @@
-# Crud-de-Notas-Spring-Boot_WEB1
+# Crud de Notas Spring Boot WEB1
 ## *Disciplina de WEB 1 do Curso de Bacharelado em Sistemas de Informação - Campus Lagarto*
 
 <br/>
