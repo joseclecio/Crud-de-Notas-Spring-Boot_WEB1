@@ -5,7 +5,7 @@
 
 # Modos de Instalação
 ## Passo 1: 
-<br>
+<br/>
 ### Vá até a pasta *📂src* -> *📂main* -> *📂resources* -> *📄application.properties*
 ## Passo 2:
 
