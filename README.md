@@ -3,6 +3,8 @@
 <br>
 <br>
 
-### Título nível 3
+# Modos de Instalação
+## Passo 1: 
+### Vá até a pasta **src**
 
 
