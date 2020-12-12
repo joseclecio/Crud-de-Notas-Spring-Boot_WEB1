@@ -1,14 +1,38 @@
 <nav role="navigation" class="navbar navbar-inverse">
- <div class="">
-  <a class="navbar-brand">Crud Spring</a>
- </div>
- <div class="navbar-collapse">
-     <ul class="nav navbar-nav">
-          <li><a href="/">Principal</a></li>
-          <li><a href="/list-todos">Notas</a></li>
-     </ul>
-     <ul class="nav navbar-nav navbar-right">
-         <li><a style="text-decoration: underline;" href="/logout">Sair</a></li>
-     </ul>
- </div>
+	<div class="">
+		<a class="navbar-brand">Crud Spring</a>
+	</div>
+	<div class="navbar-collapse">
+		<ul class="nav navbar-nav">
+			<li><a href="/">Principal</a></li>
+			<li><a href="/list-todos">Notas</a></li>
+			<li><a href="#" data-target="#myModal" data-toggle="modal">Informação</a></li>
+			<!-- Trigger the modal with a button -->
+
+			<!-- Modal -->
+			<div id="myModal" class="modal fade" role="dialog">
+				<div class="modal-dialog">
+
+					<!-- Modal content-->
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">&times;</button>
+							<h4 class="modal-title">Informações Sobre o Projeto</h4>
+						</div>
+						<div class="modal-body">
+							<p>Um Crud de Notas Spring Boot utilizando as tecnologias Spring MVC + Spring Security + JSP + Hibernate + MySQL. Disciplina de WEB 1 do Curso de Bacharelado em Sistemas de Informação - Campus Lagarto.</p>
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-danger"
+								data-dismiss="modal">Fechar</button>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li><a style="text-decoration: underline;" href="/logout">Sair</a></li>
+		</ul>
+	</div>
 </nav>
