@@ -10,7 +10,7 @@
 						<form:hidden path="id" />
 						<fieldset class="form-group">
 							<form:label path="description">Descrição</form:label>
-							<form:textarea path="description" type="text" class="form-control"
+							<form:input path="description" type="text" class="form-control"
 								required="required" />
 							<form:errors path="description" cssClass="text-warning" />
 						</fieldset>
