@@ -37,7 +37,7 @@
 			</div>
 			
 			<div class="item">
-				<img style="width: 50%; height: 55%; position: relative; left:25%;" src="https://lh3.googleusercontent.com/proxy/R6TcoP0F9VMFkIKIf4S7UjFW52WFQ1OlqOpBuFAb02JGy69QBY0EUB0dnNsChNaadfUpkzN4FD5CUYZYWmH6A1oTupLaGwHPVz6gmX8w8zC-0L9YkmhRXewqh3ZP233c3JRWtx8mc0KBo8VISio"
+				<img style="width: 50%; height: 55%; position: relative; left:25%;" src="https://miro.medium.com/max/600/1*gxXLMIuJDHCH7fwIgEP1cg.png"
 					>
 			</div>
 			
