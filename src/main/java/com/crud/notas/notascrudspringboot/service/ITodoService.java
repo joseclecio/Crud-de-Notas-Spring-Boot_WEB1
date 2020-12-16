@@ -7,6 +7,9 @@ import java.util.Optional;
 
 import com.crud.notas.notascrudspringboot.model.Todo;
 
+/*
+1 - Vamos explorar todos os métodos necessários para processar os recursos do crud de notas nesta interface.
+*/
 public interface ITodoService {
 
     List < Todo > getTodosByUser(String user);
