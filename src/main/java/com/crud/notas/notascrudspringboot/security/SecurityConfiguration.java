@@ -7,6 +7,11 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.crypto.password.NoOpPasswordEncoder;
 
+/*
+1 - Esta classe estende  WebSecurityConfigurerAdapter  e substitui alguns de seus 
+métodos para definir algumas especificações da configuração de segurança da web.
+*/
+
 @SuppressWarnings("deprecation")
 @Configuration
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
@@ -26,13 +31,18 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         .roles("USER", "TESTE");
     }
 
+    /*
+     2 - O   método configure(HttpSecurity) define quais caminhos de URL devem ser protegidos 
+e quais não devem. Especificamente, os caminhos "/" e "/ login" são configurados para não exigir 
+qualquer autenticação. Todos os outros caminhos devem ser autenticados.*/
+    
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http.authorizeRequests()
         .antMatchers("/login", "/h2-console/**")
         .permitAll()
         .antMatchers("/", "/*todo*/**").access("hasRole('USER')").and()
-        .formLogin(); //login padrão do spring
+        .formLogin(); //login padrão do spring. Esta é uma página de login simples fornecida pelo Spring Security
 
         http.csrf().disable();
         http.headers().frameOptions().disable();
