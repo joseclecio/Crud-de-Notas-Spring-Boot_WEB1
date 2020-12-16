@@ -9,6 +9,7 @@
 * <a href="https://www.devmedia.com.br/introducao-ao-java-server-pages-jsp/25602" target="_blank">JSP</a> 
 * <a href="https://www.devmedia.com.br/guia/hibernate/38312" target="_blank">Hibernate</a>   
 * <a href="https://www.devmedia.com.br/guia/mysql/34335" target="_blank">MySQL</a> 
+* <a href="https://www.devmedia.com.br/introducao-a-jpa-java-persistence-api/28173" target="_blank">JPA</a> 
 * <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank">Java</a>
 
 <br/>
