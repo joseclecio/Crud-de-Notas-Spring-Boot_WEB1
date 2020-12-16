@@ -21,6 +21,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.crud.notas.notascrudspringboot.model.Todo;
 import com.crud.notas.notascrudspringboot.service.ITodoService;
 
+
+/*
+1 - Esta classe contém métodos de tratamento de solicitações para criar, atualizar, excluir e lista de Todos.
+*/
 @Controller
 public class TodoController {
 
