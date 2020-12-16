@@ -6,6 +6,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.servlet.ModelAndView;
 
+/*
+1 - ErrorController usado para mapear a página de erro personalizada.
+*/
 @Controller("error")
 public class ErrorController {
 
