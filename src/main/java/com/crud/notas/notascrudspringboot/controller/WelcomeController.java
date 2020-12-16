@@ -7,6 +7,10 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+/*
+1 - Depois que um usuário autenticado com sucesso, ele navegará para a 
+página de boas-vindas e esta solicitação será tratada por esta classe WelcomeController.
+*/
 @Controller
 public class WelcomeController {
 
