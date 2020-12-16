@@ -10,6 +10,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+/*
+1 - Esta classe trata, após o logout com sucesso, navegar para uma página inicial.
+*/
 @Controller
 public class LogoutController {
 
