@@ -27,7 +27,7 @@
 			</div>
 
 			<div class="item">
-				<img style="width: 50%; height: 55%; position: relative; left:25%;" src="https://arquivo.devmedia.com.br/marketing/img/guia-hibernate-38312.png"
+				<img style="width: 50%; height: 55%; position: relative; left:25%;" src="https://rponte.files.wordpress.com/2015/10/jpa-hibernate.jpg"
 					>
 			</div>
 
